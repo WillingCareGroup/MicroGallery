@@ -68,7 +68,7 @@ def _init_state() -> None:
     st.session_state.setdefault(_PADDING,       6)
     st.session_state.setdefault(_LABEL_BG_ON,   False)
     st.session_state.setdefault(_LABEL_BG,      "#FFFFFF")
-    st.session_state.setdefault(_TEXT_COLOR,    "#1F252B")
+    st.session_state.setdefault(_TEXT_COLOR,    "#FFFFFF")
     st.session_state.setdefault(_ZOOM,          40)
 
 
