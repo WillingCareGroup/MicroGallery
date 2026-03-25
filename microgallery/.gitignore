@@ -8,3 +8,9 @@ dist/
 build/
 .DS_Store
 Thumbs.db
+
+# Claude Code session files — local only, not for version control
+CLAUDE.md
+HANDOFF.md
+docs/devlog.md
+docs/invariants.md
